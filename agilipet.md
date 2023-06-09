@@ -36,9 +36,9 @@ Ces valeurs sont une approximation usuelle du nombre d’heures de jour de la p�
 
 |                        |Date              | Gnomons           | Mètre       |
 |:-----------------------|:-----------------|:-----------------:| -----------:|
-| Équinoxes de printemps | 20 mars 2023     | 12                | 6.29        |
+| Équinoxe de printemps  | 20 mars 2023     | 12                | 6.29        |
 | Solstice d’été         | 21 juin 2023     | 16                | 8.38        |
-| Équinoxes d'automne    | 23 septembre 2023| 12                | 6.29        |
+| Équinoxe d'automne     | 23 septembre 2023| 12                | 6.29        |
 | Solstice d’hiver       | 22 décembre 2023 | 8                 | 4.18        |
 
 Le terrain peu être s'il est utilisé chaque année ornée de pierre monumentale en cercle autours du terrain. Stonehenge ou le Colisée de Rome sont de magnifique exemple de terrain d’agilipet dit orné.
