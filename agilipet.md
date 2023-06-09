@@ -22,7 +22,7 @@ Les pénalités sont définies dans les grandes lignes avant la rencontre et peu
 
 ## Gnomon
 Le gnomon [(γνώμων : Qui connaît, interprète et juge en gréc)](https://fr.wiktionary.org/wiki/%CE%B3%CE%BD%CF%8E%CE%BC%CF%89%CE%BD) est le bâton de lancé de 523.6 [mm] qui sert faire choir la bouteille centrale. Il sert également au calcul des dimensions du terrain. 
-Une tolérance de 42 [mm] est acceptée suit au déboire du premier maitre gnomonier. Cette histoire se trouve conté dans les chroniques griotique des clans d'outremer.
+Une tolérance de 42 [mm] est acceptée suit au déboire du premier maitre gnomonier. Cette histoire se trouve contée dans les chroniques griotique des clans d'outremer.
 Une exécution de Gnomon sculpté est aussi particulièrement souhaitable. Avent chaque tournoi d’importance, une purification par la fumée du banquet est effectué par l’arbitre.
 
 ## Dates des tournois
@@ -41,7 +41,7 @@ Ces valeurs sont une approximation usuelle du nombre d’heures de jour de la p�
 | Équinoxes d'automne    | 23 septembre 2023| 12                | 6.29        |
 | Solstice d’hiver       | 22 décembre 2023 | 8                 | 4.18        |
 
-Le terrain peu être s'il est utilisé chaque année ornée de pierre monumentale en cercle autours du terrain. Stonehenge ou le Colisée de Rome sont de magnifique exemple de terrain d’agilipet dit orné.
+Le terrain peut être, s'il est utilisé chaque année, orné de pierres monumentales en cercle autours du terrain. Stonehenge ou le Colisée de Rome sont de magnifiques exemples de terrains d’agilipet dits ornés.
 
 ![Stonehenge](https://upload.wikimedia.org/wikipedia/commons/thumb/6/67/Stonehenge_render.jpg/320px-Stonehenge_render.jpg)
 ![Colosseum](https://upload.wikimedia.org/wikipedia/commons/thumb/b/be/Colosseum_in_Rome_%28titel_op_object%29_P.I.N._5818_Roma_Amfiteatro_flavio_o_colosseo_%28A.D._dell_72_all%27_80%29._%28titel_op_object%29%2C_RP-F-2007-358-56.jpg/297px-Colosseum_in_Rome_%28titel_op_object%29_P.I.N._5818_Roma_Amfiteatro_flavio_o_colosseo_%28A.D._dell_72_all%27_80%29._%28titel_op_object%29%2C_RP-F-2007-358-56.jpg)
